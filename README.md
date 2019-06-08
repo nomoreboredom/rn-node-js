@@ -1,5 +1,5 @@
 # rn-node-js
-Repo for how to run node.js on mobile 
+How to run node.js on mobile 
 https://medium.com/@ardailgaz/wanna-some-node-js-core-modules-on-mobile-3e047511b915
 
 ##### 
